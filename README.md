@@ -22,8 +22,8 @@ WIP
 WIP
 
 ## Instructions
-### [ScriptA.gh]
-WIP
+### [Modelling_synthetic_DFN_dataset_many_textures.gh]
+First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less.
 
 ### [ScriptB.gh]
 WIP
