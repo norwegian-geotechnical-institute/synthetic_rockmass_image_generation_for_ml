@@ -28,8 +28,5 @@ The figure below shows how to set the size of the Rhino Viewport in Step 7.
 
 <img src="https://github.com/norwegian-geotechnical-institute/synthetic_rockmass_image_generation_for_ml/blob/06f1b6b1cbca894cca48ae27ba2d3003b7355248/Figures/Synthetic_DFN_GH_SettingViewportSize.png" alt="image" width="500">
 
-
-NB! The image export operation is re-writable.
-
 ### [ScriptB.gh]
 WIP
