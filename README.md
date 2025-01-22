@@ -22,6 +22,17 @@ WIP
 WIP
 
 ## Instructions
+### [Modelling_BlockShape_creator.gh]
+
+#### Tunny settings in our study
+- Sampler: Quasi-MonteCarlo
+- Number of trials: 8192 (must be a power of 2)
+- Timeout (sect): 0
+- QMC Type: sobol
+- Scramble: off
+- Seed: 42 (configurable in settings.json, to be opened by from right-click menu of the Tunny component)
+
+
 ### [Modelling_synthetic_DFN_dataset_many_textures.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
 The figure below shows how to set the size of the Rhino Viewport in Step 7.
