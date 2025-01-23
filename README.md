@@ -33,6 +33,7 @@ Open the Rhino file [BlockShape_Playground_Template.3dm]. The template has embed
 - Scramble: off
 - Seed: 42 (configurable in settings.json, to be opened by from right-click menu of the Tunny component)
 
+#### *Results of our study are plotted in [BlockShape_Playground_Results.3dm]*
 
 ### [Modelling_synthetic_DFN_dataset_many_textures.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
