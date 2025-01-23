@@ -23,7 +23,8 @@ WIP
 
 ## Instructions
 ### [Modelling_BlockShape_creator.gh]
-
+#### Rhino set-up
+Open the Rhino file [BlockShape_Playground_Template.3dm]. The template has embedded the block shape classification charts from Palmström (1995) and Singh et al. (2022).
 #### Tunny settings in our study
 - Sampler: Quasi-MonteCarlo
 - Number of trials: 8192 (must be a power of 2)
