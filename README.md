@@ -35,11 +35,20 @@ Open the Rhino file [BlockShape_Playground_Template.3dm]. The template has embed
 
 #### *Results of our study are plotted in [BlockShape_Playground_Results.3dm]*
 
+### [Modelling_synthetic_box_dataset_single_texture.gh]
+First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
+
+Figure 1 shows how to set the size of the Rhino Viewport in Step 5.
+
+For modelling with different textures, the user needs to update the texture JPG file path in Step 2 for each texture.
+
 ### [Modelling_synthetic_DFN_dataset_many_textures.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
-The figure below shows how to set the size of the Rhino Viewport in Step 7.
 
-<img src="https://github.com/norwegian-geotechnical-institute/synthetic_rockmass_image_generation_for_ml/blob/06f1b6b1cbca894cca48ae27ba2d3003b7355248/Figures/Synthetic_DFN_GH_SettingViewportSize.png" alt="image" width="500">
+Figure 1 shows how to set the size of the Rhino Viewport in Step 7.
 
 ### [Modelling_slope_rough_surface.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through the panel inputs and buttons from top to the bottom in Part 1 of the GH file.
+
+<img src="https://github.com/norwegian-geotechnical-institute/synthetic_rockmass_image_generation_for_ml/blob/06f1b6b1cbca894cca48ae27ba2d3003b7355248/Figures/Synthetic_DFN_GH_SettingViewportSize.png" alt="image" width="500">
+Figure 1 setting Rhino Viewport size
