@@ -40,8 +40,8 @@ First, open a blank Rhino document with meters as the model units, e.g. the "Lar
 
 Figure 1 shows how to set the size of the Rhino Viewport in Step 5.
 
-High resolution point cloud (e.g. 2 cm) is need in order to export the rock mass images that depicts that realistic rocks slope surface.
-The slope mesh OBJ can be generated via triangulation of a point cloud with a lower resolution (e.g. 10 cm) to reduce computational effort.
+A resolution point cloud (e.g. 2 cm) is needed to export the rock mass images that depict a realistic rock slope surface.
+To reduce computational effort, the slope mesh OBJ can be generated via triangulation of a point cloud with a lower resolution (e.g. 10 cm).
 
 ### [Modelling_synthetic_box_dataset_single_texture.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
