@@ -35,6 +35,14 @@ Open the Rhino file [BlockShape_Playground_Template.3dm]. The template has embed
 
 #### *Results of our study are plotted in [BlockShape_Playground_Results.3dm]*
 
+### [Modelling_synthetic_slope_dataset.gh]
+First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
+
+Figure 1 shows how to set the size of the Rhino Viewport in Step 5.
+
+High resolution point cloud (e.g. 2 cm) is need in order to export the rock mass images that depicts that realistic rocks slope surface.
+The slope mesh OBJ can be generated via triangulation of a point cloud with a lower resolution (e.g. 10 cm) to reduce computational effort.
+
 ### [Modelling_synthetic_box_dataset_single_texture.gh]
 First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file. Remember to set the Rhino document's distance tolerance to 0.001 or less (Step 1).
 
