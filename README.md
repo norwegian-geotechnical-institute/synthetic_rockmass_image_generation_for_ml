@@ -60,11 +60,13 @@ Figure 1 shows how to set the size of the Rhino Viewport in Step 5.
 
 For modelling with different textures, the user needs to update the texture JPG file path in Step 2 for each texture.
 
+<img src="https://github.com/norwegian-geotechnical-institute/synthetic_rockmass_image_generation_for_ml/blob/06f1b6b1cbca894cca48ae27ba2d3003b7355248/Figures/Synthetic_DFN_GH_SettingViewportSize.png" alt="image" width="500">
+Figure 1 setting Rhino Viewport size
+
 ### [D-Calculation_BlockShape.gh]
 If plotting is needed, open the BlockShape_Playground_Results.3dm. Then open the GH file. Go through each step in Part of the GH file.
 If plotting is not needed, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through step 1 and 2 of the GH file.
 
 
 
-<img src="https://github.com/norwegian-geotechnical-institute/synthetic_rockmass_image_generation_for_ml/blob/06f1b6b1cbca894cca48ae27ba2d3003b7355248/Figures/Synthetic_DFN_GH_SettingViewportSize.png" alt="image" width="500">
-Figure 1 setting Rhino Viewport size
+
