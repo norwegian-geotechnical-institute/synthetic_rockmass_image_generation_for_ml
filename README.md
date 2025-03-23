@@ -60,7 +60,9 @@ Figure 1 shows how to set the size of the Rhino Viewport in Step 5.
 
 For modelling with different textures, the user needs to update the texture JPG file path in Step 2 for each texture.
 
-
+### [D-Calculation_BlockShape.gh]
+If plotting is needed, open the BlockShape_Playground_Results.3dm. Then open the GH file. Go through each step in Part of the GH file.
+If plotting is not needed, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through step 1 and 2 of the GH file.
 
 
 
