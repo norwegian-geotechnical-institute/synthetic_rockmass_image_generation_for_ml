@@ -67,6 +67,8 @@ Figure 1 setting Rhino Viewport size
 If plotting is needed, open the BlockShape_Playground_Results.3dm. Then open the GH file. Go through each step in Part of the GH file.
 If plotting is not needed, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through step 1 and 2 of the GH file.
 
+### [E-Calculation_Network_topology.gh]
+First, open a blank Rhino document with meters as the model units, e.g. the "Large Objects - Meters" Rhino Templates. Then open the GH file. Go through each step in Part 1 of the GH file.
 
 
 
